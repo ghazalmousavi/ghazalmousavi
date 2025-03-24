@@ -3,6 +3,7 @@
 - 📫 How to reach me: ghazalmousavi.2003@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghazalmousavi&langs_count=4)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghazalmousavi&show_icons=true&theme=radical)
 
 <!--
 **ghazalmousavi/ghazalmousavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
