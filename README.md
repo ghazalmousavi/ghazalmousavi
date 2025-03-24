@@ -2,8 +2,6 @@
 - 🔭 I’m currently studying Electrical Engineering at the University of Tehran.
 - 📫 How to reach me: ghazalmousavi.2003@gmail.com
 
-## Most Used Languages:
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&hide_progress=false&layout=compact)
 <!--
 **ghazalmousavi/ghazalmousavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
