@@ -1,5 +1,9 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ghazal Mousavi!
-- 🔭 I’m currently studying Electrical Engineering at the University of Tehran.
+
+- 🔭 I’m working on decentralized massive MIMO systems and advanced detection algorithms.
+- 🌱 I’m currently exploring IRS-aided and optical fiber communications.
+- 🎓 B.Sc. in Electrical Engineering (Communications), University of Tehran.
+- 😄 Pronouns: She/Her
 - 📫 How to reach me: ghazalmousavi.2003@gmail.com
 <!--
 **ghazalmousavi/ghazalmousavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
